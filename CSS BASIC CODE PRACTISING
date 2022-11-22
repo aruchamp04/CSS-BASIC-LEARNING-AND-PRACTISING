@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <style>
+            body{
+                background-color:green;
+            }
+        </style>
+        <body>
+            <style>
+                h1{
+                    color:yellow;
+             font-family:'calibri',times new romon,display;
+                    font-weight:normal;
+                    font-style:italic;
+                    text-transform:uppercase;
+                    line-height:20px;
+                    text-align:center;
+                    letter-spacing:2px;
+                    word-spacing:3px;
+                    
+                    }
+                }
+                h2{
+                    color:violet;
+                    font-family:'arial',display;
+                    font-weight:bold;
+                    font-style:italic;
+                    text-transform:uppercase;
+                    line-height:50px;
+                    text-align:center;
+                    letter-spacing:3px;
+                    word-spacing:2px;
+                    }
+                }
+                p{
+                    text-decoration:underline;
+                    text-align:left;
+                  
+                    }
+                   
+                    }
+                }
+            </style>
+            <h1>
+                HELLO FRIENDs I Am ARUN kUMAR</h1>
+                <h2>
+                TODAY I AM GOING TO DISCUSS THE CSS COLORS<h2>
+                <p><a href ="LOOK UP" target_"blanK">LOOK UP</a>
+                </p>
+              
+        </body>
+    </head>
+</html>
